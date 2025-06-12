@@ -1,0 +1,14 @@
+/Users/cris/personal/ada1/Ut5Ta5Ada/bin/Debug/net9.0/Ut5Ta5Ada
+/Users/cris/personal/ada1/Ut5Ta5Ada/bin/Debug/net9.0/Ut5Ta5Ada.deps.json
+/Users/cris/personal/ada1/Ut5Ta5Ada/bin/Debug/net9.0/Ut5Ta5Ada.runtimeconfig.json
+/Users/cris/personal/ada1/Ut5Ta5Ada/bin/Debug/net9.0/Ut5Ta5Ada.dll
+/Users/cris/personal/ada1/Ut5Ta5Ada/bin/Debug/net9.0/Ut5Ta5Ada.pdb
+/Users/cris/personal/ada1/Ut5Ta5Ada/obj/Debug/net9.0/Ut5Ta5Ada.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cris/personal/ada1/Ut5Ta5Ada/obj/Debug/net9.0/Ut5Ta5Ada.AssemblyInfoInputs.cache
+/Users/cris/personal/ada1/Ut5Ta5Ada/obj/Debug/net9.0/Ut5Ta5Ada.AssemblyInfo.cs
+/Users/cris/personal/ada1/Ut5Ta5Ada/obj/Debug/net9.0/Ut5Ta5Ada.csproj.CoreCompileInputs.cache
+/Users/cris/personal/ada1/Ut5Ta5Ada/obj/Debug/net9.0/Ut5Ta5Ada.dll
+/Users/cris/personal/ada1/Ut5Ta5Ada/obj/Debug/net9.0/refint/Ut5Ta5Ada.dll
+/Users/cris/personal/ada1/Ut5Ta5Ada/obj/Debug/net9.0/Ut5Ta5Ada.pdb
+/Users/cris/personal/ada1/Ut5Ta5Ada/obj/Debug/net9.0/Ut5Ta5Ada.genruntimeconfig.cache
+/Users/cris/personal/ada1/Ut5Ta5Ada/obj/Debug/net9.0/ref/Ut5Ta5Ada.dll
